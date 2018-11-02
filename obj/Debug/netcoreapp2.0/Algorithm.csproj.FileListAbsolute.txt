@@ -1,0 +1,11 @@
+D:\C#Instance\algorithm\Algorithm\Algorithm\bin\Debug\netcoreapp2.0\Algorithm.deps.json
+D:\C#Instance\algorithm\Algorithm\Algorithm\bin\Debug\netcoreapp2.0\Algorithm.runtimeconfig.json
+D:\C#Instance\algorithm\Algorithm\Algorithm\bin\Debug\netcoreapp2.0\Algorithm.runtimeconfig.dev.json
+D:\C#Instance\algorithm\Algorithm\Algorithm\bin\Debug\netcoreapp2.0\Algorithm.dll
+D:\C#Instance\algorithm\Algorithm\Algorithm\bin\Debug\netcoreapp2.0\Algorithm.pdb
+D:\C#Instance\algorithm\Algorithm\Algorithm\obj\Debug\netcoreapp2.0\Algorithm.csprojResolveAssemblyReference.cache
+D:\C#Instance\algorithm\Algorithm\Algorithm\obj\Debug\netcoreapp2.0\Algorithm.csproj.CoreCompileInputs.cache
+D:\C#Instance\algorithm\Algorithm\Algorithm\obj\Debug\netcoreapp2.0\Algorithm.AssemblyInfoInputs.cache
+D:\C#Instance\algorithm\Algorithm\Algorithm\obj\Debug\netcoreapp2.0\Algorithm.AssemblyInfo.cs
+D:\C#Instance\algorithm\Algorithm\Algorithm\obj\Debug\netcoreapp2.0\Algorithm.dll
+D:\C#Instance\algorithm\Algorithm\Algorithm\obj\Debug\netcoreapp2.0\Algorithm.pdb
